@@ -1,7 +1,21 @@
 ul+p{
-    width:"100%";
-    height:"80px";
-    background:"red";
-    opacity: 90%;
+    width:100%;
+    height:80px;
+    background:red;
+    
 
+}
+#himalaya{
+    width: 100%;
+    height: 80px;
+    color: green;
+}
+.titlex{
+    width: 100%;
+    color:  red;
+
+}
+#wow{
+    color: cyan;
+    
 }
